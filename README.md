@@ -26,3 +26,5 @@ Take temperature, humidity, pressure, and light readings and post to DweetIO.  U
 
 Tweet to get candy...add more followers on twitter to get more candy.  For step by step instructions on how to imp a candy maker see [this instructable](http://www.instructables.com/id/SnackBot-The-Internet-Connected-Candy-Machine/).
 
+# License
+Code here is licensed under the [MIT License](./LICENSE).
